@@ -1,6 +1,6 @@
 # _My First Website_
 
-#### By _**Matt C.**_
+#### By _**Matt C.** and everyone else in the **Spruce Team**_
 
 #### _A simple webpage from practicing HTML and CSS_
 
@@ -16,8 +16,9 @@ _A simple and mostly nonfunctional website created during a class project at **E
 
 ## Setup/Installation Requirements
 
-* _There is no setup_
-* _There is no installation_
+* _Clone this repository._
+* _Navigate to it_
+* _Open the HTML in your browser._
 
 _This README is meant as nothing more than a practice of writing READMEs in Markdown._
 
